@@ -1,2 +1,5 @@
 # Challange_BI_3_Ed_Semana_2
 Challange Bi Logistica Hermex
+
+
+Power BI: https://app.powerbi.com/view?r=eyJrIjoiMGMxNzNhMWEtYzIzNi00ZjM0LWFjNDQtZDQ1YjVkOTkxZTllIiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9
