@@ -2,4 +2,4 @@
 Challange Bi Logistica Hermex
 
 
-Power BI: https://app.powerbi.com/view?r=eyJrIjoiMGMxNzNhMWEtYzIzNi00ZjM0LWFjNDQtZDQ1YjVkOTkxZTllIiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9
+Power BI: [https://app.powerbi.com/view?r=eyJrIjoiMGMxNzNhMWEtYzIzNi00ZjM0LWFjNDQtZDQ1YjVkOTkxZTllIiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9](https://app.powerbi.com/view?r=eyJrIjoiZGM1MmEyNWYtM2E5MS00N2JiLThlYTEtNGI2YWQ2OGEyY2M4IiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9)
