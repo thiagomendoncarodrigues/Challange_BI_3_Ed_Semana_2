@@ -1,4 +1,4 @@
-# Desafio BI 3 Edição Semana 2
+# Desafio BI 3º Edição Semana 2
 Challange Bi Logística Hermex
 
 # Análise de desempenho de logística
